@@ -1,0 +1,120 @@
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (1,"Hyatt","Talley","t.hyatt4437@uni.acuk",83,1),
+  (2,"Jonah","Slater","slaterjonah@uni.acuk",54,2),
+  (3,"Brynn","Fletcher","b_fletcher@uni.acuk",4,2),
+  (4,"Darius","Cardenas","darius-cardenas@uni.acuk",68,2),
+  (5,"Erich","Todd","e_todd394@uni.acuk",19,2),
+  (6,"Lacota","George","g.lacota@uni.acuk",26,1),
+  (7,"Fitzgerald","Duffy","dfitzgerald@uni.acuk",64,1),
+  (8,"Joshua","Shannon","j_shannon1312@uni.acuk",29,2),
+  (9,"Sean","Hebert","hebert-sean7866@uni.acuk",2,2),
+  (10,"Orla","Finley","o.finley9476@uni.acuk",55,1);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (11,"Ria","Garrison","r.garrison4258@uni.acuk",25,1),
+  (12,"Suki","Maddox","maddoxsuki@uni.acuk",51,1),
+  (13,"Merritt","Roach","m.roach2125@uni.acuk",17,2),
+  (14,"Yuli","Mcintyre","yuli-mcintyre7572@uni.acuk",84,1),
+  (15,"Dexter","Zimmerman","zimmermandexter@uni.acuk",16,2),
+  (16,"Lillian","Mullins","mullins.lillian3750@uni.acuk",65,1),
+  (17,"Sharon","Smith","sharon-smith8767@uni.acuk",41,2),
+  (18,"Chastity","Thomas","thomas.chastity@uni.acuk",94,2),
+  (19,"Prescott","Hopper","hopperprescott@uni.acuk",42,2),
+  (20,"Nayda","Fulton","fultonnayda8936@uni.acuk",4,2);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (21,"Wendy","Harvey","harvey-wendy@uni.acuk",34,1),
+  (22,"Selma","Berger","bselma9752@uni.acuk",20,1),
+  (23,"Raven","Wyatt","rwyatt862@uni.acuk",63,1),
+  (24,"Tatum","Ross","r.tatum@uni.acuk",2,1),
+  (25,"Chastity","Boone","chastity.boone3018@uni.acuk",17,1),
+  (26,"Moana","Logan","logan_moana8722@uni.acuk",72,2),
+  (27,"Basil","Bennett","basilbennett3059@uni.acuk",77,2),
+  (28,"Stewart","Kelley","stewart_kelley8359@uni.acuk",89,2),
+  (29,"Josiah","Padilla","jpadilla1792@uni.acuk",27,1),
+  (30,"Kasper","O'brien","obrienkasper2270@uni.acuk",87,1);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (31,"Derek","Rosales","rosales.derek3115@uni.acuk",70,2),
+  (32,"Indigo","Cummings","i.cummings@uni.acuk",67,2),
+  (33,"Quynn","Solis","q_solis8791@uni.acuk",93,1),
+  (34,"Adrienne","Flynn","f_adrienne@uni.acuk",57,1),
+  (35,"Tallulah","Miranda","t.miranda@uni.acuk",40,1),
+  (36,"Zeph","Park","z-park2378@uni.acuk",44,2),
+  (37,"Ferris","Washington","ferris_washington@uni.acuk",32,2),
+  (38,"Ryan","Mckenzie","ryan.mckenzie@uni.acuk",50,1),
+  (39,"Dorothy","Simon","dorothy_simon@uni.acuk",18,1),
+  (40,"Allegra","Norris","n_allegra@uni.acuk",69,1);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (41,"Jelani","Stephenson","jelani_stephenson@uni.acuk",70,2),
+  (42,"Slade","Wilcox","wilcoxslade3285@uni.acuk",27,1),
+  (43,"Yvonne","England","y_england6407@uni.acuk",85,1),
+  (44,"Garrett","Mccarthy","m-garrett@uni.acuk",62,2),
+  (45,"Oliver","Pollard","pollard.oliver@uni.acuk",69,1),
+  (46,"Sandra","Owens","sandra_owens@uni.acuk",53,2),
+  (47,"Cairo","Wong","c-wong@uni.acuk",95,1),
+  (48,"Ainsley","Briggs","b_ainsley@uni.acuk",60,2),
+  (49,"Mark","Reyes","reyes_mark@uni.acuk",63,2),
+  (50,"Arsenio","Sargent","a-sargent@uni.acuk",57,2);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (51,"Rina","Sandoval","r.sandoval@uni.acuk",82,1),
+  (52,"Fitzgerald","Mcbride","fitzgeraldmcbride7263@uni.acuk",64,1),
+  (53,"Hayfa","Gentry","h-gentry@uni.acuk",93,1),
+  (54,"Erich","Hayden","erich_hayden1461@uni.acuk",50,1),
+  (55,"Salvador","Hensley","salvador-hensley6509@uni.acuk",52,2),
+  (56,"Dieter","Bailey","bailey.dieter1285@uni.acuk",10,2),
+  (57,"Ivana","Miranda","imiranda@uni.acuk",7,2),
+  (58,"Cairo","Higgins","higgins-cairo4535@uni.acuk",33,2),
+  (59,"Garrett","Livingston","glivingston7332@uni.acuk",73,2),
+  (60,"Candice","Jimenez","cjimenez@uni.acuk",36,1);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (61,"Keelie","Mccormick","m-keelie@uni.acuk",84,1),
+  (62,"Chandler","Thomas","t_chandler@uni.acuk",40,1),
+  (63,"Priscilla","Ford","fpriscilla3784@uni.acuk",9,1),
+  (64,"Sylvia","Berg","s-berg@uni.acuk",82,1),
+  (65,"Wang","Pitts","pittswang8325@uni.acuk",46,2),
+  (66,"Jesse","Finch","jesse_finch5260@uni.acuk",29,2),
+  (67,"Clarke","Sanders","sanders_clarke9280@uni.acuk",42,2),
+  (68,"Bethany","Lancaster","lancaster.bethany@uni.acuk",22,1),
+  (69,"Vanna","Hatfield","vhatfield8201@uni.acuk",32,2),
+  (70,"Britanni","Hartman","britannihartman2063@uni.acuk",92,2);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (71,"Aristotle","Moore","moore_aristotle@uni.acuk",70,2),
+  (72,"Bevis","Little","blittle@uni.acuk",12,2),
+  (73,"Austin","Norris","norrisaustin@uni.acuk",74,2),
+  (74,"Todd","Frederick","f-todd7430@uni.acuk",86,2),
+  (75,"Victor","Franco","franco.victor2495@uni.acuk",94,2),
+  (76,"Nita","Avery","n.avery@uni.acuk",40,2),
+  (77,"Miranda","Salinas","salinas-miranda@uni.acuk",8,2),
+  (78,"Blake","Castaneda","cblake2136@uni.acuk",81,1),
+  (79,"Acton","Grimes","g.acton9644@uni.acuk",58,2),
+  (80,"Zeus","Mosley","mosley-zeus9840@uni.acuk",6,2);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (81,"Glenna","Berry","berry-glenna16@uni.acuk",58,1),
+  (82,"Leo","Rogers","l.rogers@uni.acuk",58,2),
+  (83,"Hoyt","Hudson","h.hudson@uni.acuk",61,1),
+  (84,"Ann","Francis","f.ann5777@uni.acuk",74,1),
+  (85,"Salvador","Harvey","s_harvey9073@uni.acuk",12,2),
+  (86,"Mechelle","Boyer","bmechelle@uni.acuk",95,2),
+  (87,"Quintessa","Bentley","b-quintessa@uni.acuk",40,1),
+  (88,"Tucker","Parrish","t_parrish@uni.acuk",9,2),
+  (89,"Martin","Callahan","c-martin6984@uni.acuk",94,1),
+  (90,"Nicole","Douglas","dnicole7442@uni.acuk",60,2);
+INSERT INTO `user` (`student_number`,`first_name`,`last_name`,`email`,`address_id`,`role`)
+VALUES
+  (91,"Gail","Jacobson","j.gail@uni.acuk",96,2),
+  (92,"Kadeem","Marks","kadeemmarks9797@uni.acuk",46,1),
+  (93,"Jermaine","Calhoun","j.calhoun@uni.acuk",89,1),
+  (94,"Hiram","Rutledge","hrutledge6850@uni.acuk",30,2),
+  (95,"Constance","Mcconnell","constance.mcconnell@uni.acuk",77,2),
+  (96,"Ezra","Harper","e-harper416@uni.acuk",87,2),
+  (97,"Dennis","Hunt","d_hunt@uni.acuk",44,2),
+  (98,"Lewis","Jimenez","jimenez.lewis3296@uni.acuk",61,2),
+  (99,"Vera","Owen","owen-vera@uni.acuk",89,1),
+  (100,"Keane","Simpson","simpson-keane3516@uni.acuk",26,2);

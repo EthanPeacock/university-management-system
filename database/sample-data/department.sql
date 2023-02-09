@@ -1,0 +1,20 @@
+INSERT INTO department (`dept_name`)
+VALUES
+("Business"),
+("Childhood, Scoail Work and Social Care"),
+("Creative Industries"),
+("Criminology and Sociology"),
+("Degree Apprenticeships"),
+("Dance"),
+("Engineering, Computing and Mathematics"),
+("English and Creative Writing"),
+("Fine Art"),
+("Health"),
+("History, International Relations and Politics"),
+("Law"),
+("Music"),
+("Philsophy, Religion and Ethics"),
+("Psychology and Counselling"),
+("Sport"),
+("Stage and Screen"),
+("Teaching");
